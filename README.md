@@ -1,2 +1,2 @@
 # mytestjob
-cepo for my test jobs and projects 
+repo for my test jobs and projects 
